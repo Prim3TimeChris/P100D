@@ -1,2 +1,2 @@
 # P100D
-This is my python Journey
+This is the beginning of my Python Journey
